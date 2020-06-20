@@ -13,3 +13,7 @@ I switched the div tag in line sixty seven for an aside tag.
 I switched the div tags in lines sixty eight, seventy seven, and eighty six for article tags.
 I switched the div tag in line ninety eight for a footer tag.
 I switched the div tag in line ninety nine for a span tag.
+I made the heading tags line up in the different sections as h1 in the header, h2 in the section and h3 in the aside.
+I then added alt tags to all the images in the html file, and I added an aria-label tag to the header.
+I went throought the css file and rearranged the code so that the order was appropriate to the html code and the swapped the class and id tags to match up with the tags in the html code.
+I added the background image to the css code.
